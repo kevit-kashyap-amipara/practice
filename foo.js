@@ -1,0 +1,1 @@
+console.log("foo.js in f1")
